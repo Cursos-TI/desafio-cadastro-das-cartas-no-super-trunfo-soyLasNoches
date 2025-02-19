@@ -104,5 +104,4 @@ int main() {
 
     return 0; // Retorna 0 indicando que o programa foi executado corretamente
 
-    return 0;
 }
